@@ -257,7 +257,7 @@ footer a{ color:inherit; }
       <h1 class="rv" style="animation-delay:0s;">Ton avis compte ✨</h1>
       <p class="sub rv" style="animation-delay:.06s;">2 minutes — <b>ton avis sera affiché sur le site avec un lien vers ta chaîne</b> (si tu es d'accord).</p>
 
-      <form id="avisForm" action="https://formspree.io/f/mojgjgrl" method="POST" novalidate>
+      <form id="avisForm" action="https://formspree.io/f/mqerpkrq" method="POST" novalidate>
         <input type="hidden" name="_subject" value="⭐ Nouvel avis client — TAYZEN">
         <input type="hidden" name="source" value="Page avis TAYZEN">
         <input type="hidden" name="type_video" id="typeVideoField" value="">
